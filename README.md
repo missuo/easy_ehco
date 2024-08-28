@@ -8,7 +8,7 @@ EasyEhco is a simple script for configuring Ehco on Linux.
 
 ## Usage
 ```shell
-bash <(curl -Ls https://owo.nz/ehco)
+bash <(curl -Ls https://ssa.sx/ehco)
 ```
 ## Thanks
 - Thanks to all the developers of [ehco](https://github.com/Ehco1996/ehco) for their contributions
